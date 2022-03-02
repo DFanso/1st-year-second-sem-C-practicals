@@ -1,0 +1,8 @@
+D:\C# practical\Circumparance\Circumparance\bin\Debug\Circumparance.exe.config
+D:\C# practical\Circumparance\Circumparance\bin\Debug\Circumparance.exe
+D:\C# practical\Circumparance\Circumparance\bin\Debug\Circumparance.pdb
+D:\C# practical\Circumparance\Circumparance\obj\Debug\Circumfarance.csproj.AssemblyReference.cache
+D:\C# practical\Circumparance\Circumparance\obj\Debug\Circumfarance.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\Circumparance\Circumparance\obj\Debug\Circumfarance.csproj.CoreCompileInputs.cache
+D:\C# practical\Circumparance\Circumparance\obj\Debug\Circumparance.exe
+D:\C# practical\Circumparance\Circumparance\obj\Debug\Circumparance.pdb

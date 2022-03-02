@@ -1,0 +1,8 @@
+D:\C# practical\Eligibilty Test\Eligibilty Test\obj\Debug\Eligibilty Test.csproj.AssemblyReference.cache
+D:\C# practical\Eligibilty Test\Eligibilty Test\obj\Debug\Eligibilty Test.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\Eligibilty Test\Eligibilty Test\obj\Debug\Eligibilty Test.csproj.CoreCompileInputs.cache
+D:\C# practical\Eligibilty Test\Eligibilty Test\bin\Debug\Eligibilty Test.exe.config
+D:\C# practical\Eligibilty Test\Eligibilty Test\bin\Debug\Eligibilty Test.exe
+D:\C# practical\Eligibilty Test\Eligibilty Test\bin\Debug\Eligibilty Test.pdb
+D:\C# practical\Eligibilty Test\Eligibilty Test\obj\Debug\Eligibilty Test.exe
+D:\C# practical\Eligibilty Test\Eligibilty Test\obj\Debug\Eligibilty Test.pdb

@@ -1,0 +1,8 @@
+D:\C# practical\encap practice\encap practice\bin\Debug\encap practice.exe.config
+D:\C# practical\encap practice\encap practice\bin\Debug\encap practice.exe
+D:\C# practical\encap practice\encap practice\bin\Debug\encap practice.pdb
+D:\C# practical\encap practice\encap practice\obj\Debug\encap practice.csproj.AssemblyReference.cache
+D:\C# practical\encap practice\encap practice\obj\Debug\encap practice.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\encap practice\encap practice\obj\Debug\encap practice.csproj.CoreCompileInputs.cache
+D:\C# practical\encap practice\encap practice\obj\Debug\encap practice.exe
+D:\C# practical\encap practice\encap practice\obj\Debug\encap practice.pdb

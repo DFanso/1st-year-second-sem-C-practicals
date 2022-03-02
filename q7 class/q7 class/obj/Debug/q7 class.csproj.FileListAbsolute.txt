@@ -1,0 +1,8 @@
+D:\C# practical\q7 class\q7 class\bin\Debug\q7 class.exe.config
+D:\C# practical\q7 class\q7 class\bin\Debug\q7 class.exe
+D:\C# practical\q7 class\q7 class\bin\Debug\q7 class.pdb
+D:\C# practical\q7 class\q7 class\obj\Debug\q7 class.csproj.AssemblyReference.cache
+D:\C# practical\q7 class\q7 class\obj\Debug\q7 class.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\q7 class\q7 class\obj\Debug\q7 class.csproj.CoreCompileInputs.cache
+D:\C# practical\q7 class\q7 class\obj\Debug\q7 class.exe
+D:\C# practical\q7 class\q7 class\obj\Debug\q7 class.pdb

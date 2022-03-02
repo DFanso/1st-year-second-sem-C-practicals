@@ -1,0 +1,8 @@
+D:\C# practical\classtest\classtest\obj\Debug\classtest.csproj.AssemblyReference.cache
+D:\C# practical\classtest\classtest\obj\Debug\classtest.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\classtest\classtest\obj\Debug\classtest.csproj.CoreCompileInputs.cache
+D:\C# practical\classtest\classtest\bin\Debug\classtest.exe.config
+D:\C# practical\classtest\classtest\bin\Debug\classtest.exe
+D:\C# practical\classtest\classtest\bin\Debug\classtest.pdb
+D:\C# practical\classtest\classtest\obj\Debug\classtest.exe
+D:\C# practical\classtest\classtest\obj\Debug\classtest.pdb

@@ -1,0 +1,8 @@
+D:\C# practical\parameter addition with class\parameter addition with class\obj\Debug\parameter addition with class.csproj.AssemblyReference.cache
+D:\C# practical\parameter addition with class\parameter addition with class\obj\Debug\parameter addition with class.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\parameter addition with class\parameter addition with class\obj\Debug\parameter addition with class.csproj.CoreCompileInputs.cache
+D:\C# practical\parameter addition with class\parameter addition with class\bin\Debug\parameter addition with class.exe.config
+D:\C# practical\parameter addition with class\parameter addition with class\bin\Debug\parameter addition with class.exe
+D:\C# practical\parameter addition with class\parameter addition with class\bin\Debug\parameter addition with class.pdb
+D:\C# practical\parameter addition with class\parameter addition with class\obj\Debug\parameter addition with class.exe
+D:\C# practical\parameter addition with class\parameter addition with class\obj\Debug\parameter addition with class.pdb

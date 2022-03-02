@@ -1,0 +1,8 @@
+D:\C# practical\class to get vehicle name from wheels\class to get vehicle name from wheels\bin\Debug\class to get vehicle name from wheels.exe.config
+D:\C# practical\class to get vehicle name from wheels\class to get vehicle name from wheels\bin\Debug\class to get vehicle name from wheels.exe
+D:\C# practical\class to get vehicle name from wheels\class to get vehicle name from wheels\bin\Debug\class to get vehicle name from wheels.pdb
+D:\C# practical\class to get vehicle name from wheels\class to get vehicle name from wheels\obj\Debug\class to get vehicle name from wheels.csproj.AssemblyReference.cache
+D:\C# practical\class to get vehicle name from wheels\class to get vehicle name from wheels\obj\Debug\class to get vehicle name from wheels.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\class to get vehicle name from wheels\class to get vehicle name from wheels\obj\Debug\class to get vehicle name from wheels.csproj.CoreCompileInputs.cache
+D:\C# practical\class to get vehicle name from wheels\class to get vehicle name from wheels\obj\Debug\class to get vehicle name from wheels.exe
+D:\C# practical\class to get vehicle name from wheels\class to get vehicle name from wheels\obj\Debug\class to get vehicle name from wheels.pdb

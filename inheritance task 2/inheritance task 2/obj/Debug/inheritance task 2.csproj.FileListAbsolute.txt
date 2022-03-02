@@ -1,0 +1,8 @@
+D:\C# practical\inheritance task 2\inheritance task 2\obj\Debug\inheritance task 2.csproj.AssemblyReference.cache
+D:\C# practical\inheritance task 2\inheritance task 2\obj\Debug\inheritance task 2.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\inheritance task 2\inheritance task 2\obj\Debug\inheritance task 2.csproj.CoreCompileInputs.cache
+D:\C# practical\inheritance task 2\inheritance task 2\bin\Debug\inheritance task 2.exe.config
+D:\C# practical\inheritance task 2\inheritance task 2\bin\Debug\inheritance task 2.exe
+D:\C# practical\inheritance task 2\inheritance task 2\bin\Debug\inheritance task 2.pdb
+D:\C# practical\inheritance task 2\inheritance task 2\obj\Debug\inheritance task 2.exe
+D:\C# practical\inheritance task 2\inheritance task 2\obj\Debug\inheritance task 2.pdb

@@ -1,0 +1,8 @@
+D:\C# practical\check student grade with class\check student grade with class\bin\Debug\check student grade with class.exe.config
+D:\C# practical\check student grade with class\check student grade with class\bin\Debug\check student grade with class.exe
+D:\C# practical\check student grade with class\check student grade with class\bin\Debug\check student grade with class.pdb
+D:\C# practical\check student grade with class\check student grade with class\obj\Debug\check student grade with class.csproj.AssemblyReference.cache
+D:\C# practical\check student grade with class\check student grade with class\obj\Debug\check student grade with class.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\check student grade with class\check student grade with class\obj\Debug\check student grade with class.csproj.CoreCompileInputs.cache
+D:\C# practical\check student grade with class\check student grade with class\obj\Debug\check student grade with class.exe
+D:\C# practical\check student grade with class\check student grade with class\obj\Debug\check student grade with class.pdb

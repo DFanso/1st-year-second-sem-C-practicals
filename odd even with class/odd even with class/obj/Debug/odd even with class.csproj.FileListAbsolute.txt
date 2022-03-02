@@ -1,0 +1,8 @@
+D:\C# practical\odd even with class\odd even with class\bin\Debug\odd even with class.exe.config
+D:\C# practical\odd even with class\odd even with class\bin\Debug\odd even with class.exe
+D:\C# practical\odd even with class\odd even with class\bin\Debug\odd even with class.pdb
+D:\C# practical\odd even with class\odd even with class\obj\Debug\odd even with class.csproj.AssemblyReference.cache
+D:\C# practical\odd even with class\odd even with class\obj\Debug\odd even with class.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\odd even with class\odd even with class\obj\Debug\odd even with class.csproj.CoreCompileInputs.cache
+D:\C# practical\odd even with class\odd even with class\obj\Debug\odd even with class.exe
+D:\C# practical\odd even with class\odd even with class\obj\Debug\odd even with class.pdb

@@ -1,0 +1,8 @@
+D:\C# practical\encapClass 2\encapClass 2\bin\Debug\encapClass 2.exe.config
+D:\C# practical\encapClass 2\encapClass 2\bin\Debug\encapClass 2.exe
+D:\C# practical\encapClass 2\encapClass 2\bin\Debug\encapClass 2.pdb
+D:\C# practical\encapClass 2\encapClass 2\obj\Debug\encapClass 2.csproj.AssemblyReference.cache
+D:\C# practical\encapClass 2\encapClass 2\obj\Debug\encapClass 2.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\encapClass 2\encapClass 2\obj\Debug\encapClass 2.csproj.CoreCompileInputs.cache
+D:\C# practical\encapClass 2\encapClass 2\obj\Debug\encapClass 2.exe
+D:\C# practical\encapClass 2\encapClass 2\obj\Debug\encapClass 2.pdb

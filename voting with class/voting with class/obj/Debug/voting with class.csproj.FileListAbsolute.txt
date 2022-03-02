@@ -1,0 +1,8 @@
+D:\C# practical\voting with class\voting with class\bin\Debug\voting with class.exe.config
+D:\C# practical\voting with class\voting with class\bin\Debug\voting with class.exe
+D:\C# practical\voting with class\voting with class\bin\Debug\voting with class.pdb
+D:\C# practical\voting with class\voting with class\obj\Debug\voting with class.csproj.AssemblyReference.cache
+D:\C# practical\voting with class\voting with class\obj\Debug\voting with class.csproj.SuggestedBindingRedirects.cache
+D:\C# practical\voting with class\voting with class\obj\Debug\voting with class.csproj.CoreCompileInputs.cache
+D:\C# practical\voting with class\voting with class\obj\Debug\voting with class.exe
+D:\C# practical\voting with class\voting with class\obj\Debug\voting with class.pdb
